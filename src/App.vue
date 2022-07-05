@@ -241,7 +241,7 @@ main {
     margin-bottom: 30px;
   }
   .profile-container {
-    width: 80%;
+    width: 90%;
     height: auto;
     margin-top: 100px;
     margin-bottom: 20px;
@@ -251,6 +251,13 @@ main {
     gap: 15px;
     align-items: center;
     height: 130px;
+  }
+  .profile-section2 {
+    height: 80px;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 15px;
+    justify-content: space-around;
   }
   .profile-picture-container {
     height: 100%;
@@ -264,14 +271,8 @@ main {
   .name {
     font-size: 22px;
   }
-  .profile-section2 {
-    height: 80px;
-    padding-left: 0;
-    flex-direction: row;
-    align-items: center;
-  }
   .cards-container {
-    width: 80%;
+    width: 90%;
     gap: 20px;
     height: auto;
     flex-wrap: wrap;
