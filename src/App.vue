@@ -230,19 +230,15 @@ main {
 @media screen and (max-width: 425px) {
   #app {
     height: auto;
-
-  }
-  body {
-    width: 100%;
+    margin-top: -60px;
   }
   main {
     width: 100%;
-    justify-content: center;
     align-items: center;
     height: auto;
     flex-direction: column;
     gap: 0;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
   }
   .profile-container {
     width: 80%;
