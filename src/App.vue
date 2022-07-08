@@ -134,7 +134,7 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #223355;
+  background-color: #0d1323;
 }
 main {
   width: 1140px;
