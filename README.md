@@ -49,7 +49,7 @@ Users should be able to:
 ### Useful resources
 
 - [Vue.js documentation](https://vuejs.org/guide/introduction.html) - I found beneficial the official documentation from Vue.js which allow me to reinforce my knowledge of some concepts and build a reactive web page in an easier way.
-- [Developer Mozilla](https://developer.mozilla.org/es/docs/Web/CSS) - As usual, one of the best documentation around web development, in this case, helped me especially with CSS styles that I need to make my page look great..
+- [Developer Mozilla](https://developer.mozilla.org/es/docs/Web/CSS) - As usual, one of the best documentation around web development, in this case, helped me especially with CSS styles that I need to make my page look great.
 
 
 ## Author
