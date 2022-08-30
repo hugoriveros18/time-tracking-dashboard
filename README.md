@@ -28,11 +28,11 @@ Users should be able to:
 
 ***Mobile***
 
-<img src="./preview-images/time-mobile.png" width="300" height="300" />
+<img src="./preview-images/time-mobile.png" width="300"/>
 
 ***Laptop***
 
-<img src="./preview-images/time-desktop.png" width="300" height="300" />
+<img src="./preview-images/time-desktop.png" width="300"/>
 
 ### Links
 
